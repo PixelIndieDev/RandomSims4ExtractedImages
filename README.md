@@ -4,4 +4,4 @@ This repository contains a random selection of images extracted directly from Th
 > [!NOTE]
 > **The names assigned to these images are not official and were created by me. They do not reflect any official naming conventions from the game developers.**
 >
-> I also do not own any copyrights to the images in this repository.
+> I also do not own any copyrights on the images in this repository.
